@@ -1,0 +1,1008 @@
+{
+    "items": [
+        {
+            "id": "Default_recipe"
+        },
+        {
+            "id": "Iron_Branch",
+            "cost": 50
+        },
+        {
+            "id": "Gauntlets_of_Strength",
+            "cost": 135
+        },
+        {
+            "id": "Mantle_of_Intelligence",
+            "cost": 135
+        },
+        {
+            "id": "Slippers_of_Agility",
+            "cost": 135
+        },
+        {
+            "id": "Circlet",
+            "cost": 165
+        },
+        {
+            "id": "Band_of_Elvenskin",
+            "cost": 450
+        },
+        {
+            "id": "Belt_of_Strength",
+            "cost": 450
+        },
+        {
+            "id": "Robe_of_the_Magi",
+            "cost": 450
+        },
+        {
+            "id": "Crown",
+            "cost": 450
+        },
+        {
+            "id": "Blade_of_Alacrity",
+            "cost": 1000
+        },
+        {
+            "id": "Ogre_Axe",
+            "cost": 1000
+        },
+        {
+            "id": "Staff_of_Wizardry",
+            "cost": 1000
+        },
+        {
+            "id": "Ring_of_Protection",
+            "cost": 175
+        },
+        {
+            "id": "Quelling_Blade",
+            "cost": 200
+        },
+        {
+            "id": "Stout_Shield",
+            "cost": 200
+        },
+        {
+            "id": "Infused_Raindrop",
+            "cost": 225
+        },
+        {
+            "id": "Orb_of_Venom",
+            "cost": 275
+        },
+        {
+            "id": "Blight_Stone",
+            "cost": 300
+        },
+        {
+            "id": "Blades_of_Attack",
+            "cost": 430
+        },
+        {
+            "id": "Chainmail",
+            "cost": 550
+        },
+        {
+            "id": "Quarterstaff",
+            "cost": 875
+        },
+        {
+            "id": "Helm_of_Iron_Will",
+            "cost": 900
+        },
+        {
+            "id": "Javelin",
+            "cost": 1100
+        },
+        {
+            "id": "Broadsword",
+            "cost": 1200
+        },
+        {
+            "id": "Claymore",
+            "cost": 1400
+        },
+        {
+            "id": "Mithril_Hammer",
+            "cost": 1600
+        },
+        {
+            "id": "Magic_Stick",
+            "cost": 200
+        },
+        {
+            "id": "Wind_Lace",
+            "cost": 250
+        },
+        {
+            "id": "Ring_of_Regen",
+            "cost": 300
+        },
+        {
+            "id": "Sage's_Mask",
+            "cost": 325
+        },
+        {
+            "id": "Boots_of_Speed",
+            "cost": 500
+        },
+        {
+            "id": "Gloves_of_Haste",
+            "cost": 500
+        },
+        {
+            "id": "Cloak",
+            "cost": 550
+        },
+        {
+            "id": "Ring_of_Tarrasque",
+            "cost": 700
+        },
+        {
+            "id": "Ring_of_Health",
+            "cost": 850
+        },
+        {
+            "id": "Void_Stone",
+            "cost": 850
+        },
+        {
+            "id": "Gem_of_True_Sight",
+            "cost": 900
+        },
+        {
+            "id": "Morbid_Mask",
+            "cost": 900
+        },
+        {
+            "id": "Shadow_Amulet",
+            "cost": 1400
+        },
+        {
+            "id": "Ghost_Scepter",
+            "cost": 1500
+        },
+        {
+            "id": "Blink_Dagger",
+            "cost": 2250
+        },
+        {
+            "id": "Energy_Booster",
+            "cost": 900
+        },
+        {
+            "id": "Vitality_Booster",
+            "cost": 1100
+        },
+        {
+            "id": "Point_Booster",
+            "cost": 1200
+        },
+        {
+            "id": "Platemail",
+            "cost": 1400
+        },
+        {
+            "id": "Talisman_of_Evasion",
+            "cost": 1400
+        },
+        {
+            "id": "Hyperstone",
+            "cost": 2000
+        },
+        {
+            "id": "Ultimate_Orb",
+            "cost": 2150
+        },
+        {
+            "id": "Demon_Edge",
+            "cost": 2200
+        },
+        {
+            "id": "Mystic_Staff",
+            "cost": 2700
+        },
+        {
+            "id": "Reaver",
+            "cost": 3000
+        },
+        {
+            "id": "Eaglesong",
+            "cost": 3200
+        },
+        {
+            "id": "Sacred_Relic",
+            "cost": 3800
+        },
+        {
+            "id": "Magic_Wand",
+            "cost": 450,
+            "recipe": [
+                "Magic_Stick",
+                "Iron_Branch",
+                "Iron_Branch",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Bracer",
+            "cost": 515,
+            "recipe": [
+                "Circlet",
+                "Gauntlets_of_Strength",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Null_Talisman",
+            "cost": 515,
+            "recipe": [
+                "Circlet",
+                "Mantle_of_Intelligence",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Wraith_Band",
+            "cost": 515,
+            "recipe": [
+                "Circlet",
+                "Slippers_of_Agility",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Soul_Ring",
+            "cost": 770,
+            "recipe": [
+                "Ring_of_Regen",
+                "Gauntlets_of_Strength",
+                "Gauntlets_of_Strength",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Power_Treads",
+            "cost": 1450,
+            "recipe": [
+                "Boots_of_Speed",
+                "Gloves_of_Haste",
+                "Belt_of_Strength"
+            ]
+        },
+        {
+            "id": "Phase_Boots",
+            "cost": 1480,
+            "recipe": [
+                "Boots_of_Speed",
+                "Chainmail",
+                "Blades_of_Attack"
+            ]
+        },
+        {
+            "id": "Oblivion_Staff",
+            "cost": 1650,
+            "recipe": [
+                "Quarterstaff",
+                "Robe_of_the_Magi",
+                "Sage's_Mask"
+            ]
+        },
+        {
+            "id": "Perseverance",
+            "cost": 1700,
+            "recipe": [
+                "Ring_of_Health",
+                "Void_Stone"
+            ]
+        },
+        {
+            "id": "Hand_of_Midas",
+            "cost": 2250,
+            "recipe": [
+                "Gloves_of_Haste",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Boots_of_Travel",
+            "cost": 2500,
+            "recipe": [
+                "Boots_of_Speed",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Moon_Shard",
+            "cost": 4000,
+            "recipe": [
+                "Hyperstone",
+                "Hyperstone"
+            ]
+        },
+        {
+            "id": "Ring_of_Basilius",
+            "cost": 500,
+            "recipe": [
+                "Sage's_Mask",
+                "Ring_of_Protection"
+            ]
+        },
+        {
+            "id": "Headdress",
+            "cost": 525,
+            "recipe": [
+                "Ring_of_Regen",
+                "Iron_Branch",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Buckler",
+            "cost": 800,
+            "recipe": [
+                "Chainmail",
+                "Iron_Branch",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Urn_of_Shadows",
+            "cost": 875,
+            "recipe": [
+                "Infused_Raindrop",
+                "Circlet",
+                "Ring_of_Protection",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Tranquil_Boots",
+            "cost": 1050,
+            "recipe": [
+                "Boots_of_Speed",
+                "Wind_Lace",
+                "Ring_of_Regen"
+            ]
+        },
+        {
+            "id": "Medallion_of_Courage",
+            "cost": 1175,
+            "recipe": [
+                "Chainmail",
+                "Sage's_Mask",
+                "Blight_Stone"
+            ]
+        },
+        {
+            "id": "Arcane_Boots",
+            "cost": 1400,
+            "recipe": [
+                "Boots_of_Speed",
+                "Energy_Booster"
+            ]
+        },
+        {
+            "id": "Drum_of_Endurance",
+            "cost": 1625,
+            "recipe": [
+                "Sage's_Mask",
+                "Crown",
+                "Wind_Lace",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Vladmir's_Offering",
+            "cost": 1925,
+            "recipe": [
+                "Ring_of_Basilius",
+                "Morbid_Mask",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Mekansm",
+            "cost": 2275,
+            "recipe": [
+                "Headdress",
+                "Buckler",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Holy_Locket",
+            "cost": 2700,
+            "recipe": [
+                "Ring_of_Tarrasque",
+                "Energy_Booster",
+                "Cloak",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Spirit_Vessel",
+            "cost": 2975,
+            "recipe": [
+                "Urn_of_Shadows",
+                "Vitality_Booster",
+                "Wind_Lace",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Pipe_of_Insight",
+            "cost": 3025,
+            "recipe": [
+                "Hood_of_Defiance",
+                "Headdress",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Guardian_Greaves",
+            "cost": 5475,
+            "recipe": [
+                "Mekansm",
+                "Arcane_Boots",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Glimmer_Cape",
+            "cost": 1950,
+            "recipe": [
+                "Shadow_Amulet",
+                "Cloak"
+            ]
+        },
+        {
+            "id": "Veil_of_Discord",
+            "cost": 2050,
+            "recipe": [
+                "Helm_of_Iron_Will",
+                "Crown",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Force_Staff",
+            "cost": 2250,
+            "recipe": [
+                "Staff_of_Wizardry",
+                "Ring_of_Regen",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Aether_Lens",
+            "cost": 2350,
+            "recipe": [
+                "Energy_Booster",
+                "Void_Stone",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Necronomicon",
+            "cost": 2400,
+            "recipe": [
+                "Sage's_Mask",
+                "Sage's_Mask",
+                "Belt_of_Strength",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Dagon",
+            "cost": 2700,
+            "recipe": [
+                "Staff_of_Wizardry",
+                "Crown",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Eul's_Scepter_of_Divinity",
+            "cost": 2750,
+            "recipe": [
+                "Staff_of_Wizardry",
+                "Void_Stone",
+                "Wind_Lace",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Rod_of_Atos",
+            "cost": 2750,
+            "recipe": [
+                "Staff_of_Wizardry",
+                "Crown",
+                "Crown",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Solar_Crest",
+            "cost": 3975,
+            "recipe": [
+                "Medallion_of_Courage",
+                "Ultimate_Orb",
+                "Wind_Lace",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Orchid_Malevolence",
+            "cost": 4075,
+            "recipe": [
+                "Oblivion_Staff",
+                "Oblivion_Staff",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Aghanim's_Scepter",
+            "cost": 4200,
+            "recipe": [
+                "Point_Booster",
+                "Staff_of_Wizardry",
+                "Ogre_Axe",
+                "Blade_of_Alacrity"
+            ]
+        },
+        {
+            "id": "Nullifier",
+            "cost": 4700,
+            "recipe": [
+                "Sacred_Relic",
+                "Helm_of_Iron_Will"
+            ]
+        },
+        {
+            "id": "Refresher_Orb",
+            "cost": 5100,
+            "recipe": [
+                "Perseverance",
+                "Perseverance",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Scythe_of_Vyse",
+            "cost": 5700,
+            "recipe": [
+                "Mystic_Staff",
+                "Ultimate_Orb",
+                "Void_Stone"
+            ]
+        },
+        {
+            "id": "Octarine_Core",
+            "cost": 5900,
+            "recipe": [
+                "Mystic_Staff",
+                "Soul_Booster"
+            ]
+        },
+        {
+            "id": "Hood_of_Defiance",
+            "cost": 1700,
+            "recipe": [
+                "Ring_of_Health",
+                "Cloak",
+                "Ring_of_Regen"
+            ]
+        },
+        {
+            "id": "Blade_Mail",
+            "cost": 2200,
+            "recipe": [
+                "Broadsword",
+                "Chainmail",
+                "Robe_of_the_Magi"
+            ]
+        },
+        {
+            "id": "Vanguard",
+            "cost": 2150,
+            "recipe": [
+                "Ring_of_Health",
+                "Vitality_Booster",
+                "Stout_Shield"
+            ]
+        },
+        {
+            "id": "Aeon_Disk",
+            "cost": 3100,
+            "recipe": [
+                "Vitality_Booster",
+                "Energy_Booster",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Soul_Booster",
+            "cost": 3200,
+            "recipe": [
+                "Vitality_Booster",
+                "Energy_Booster",
+                "Point_Booster"
+            ]
+        },
+        {
+            "id": "Crimson_Guard",
+            "cost": 3700,
+            "recipe": [
+                "Vanguard",
+                "Buckler",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Lotus_Orb",
+            "cost": 4000,
+            "recipe": [
+                "Perseverance",
+                "Platemail",
+                "Energy_Booster"
+            ]
+        },
+        {
+            "id": "Black_King_Bar",
+            "cost": 4050,
+            "recipe": [
+                "Ogre_Axe",
+                "Mithril_Hammer",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Hurricane_Pike",
+            "cost": 4600,
+            "recipe": [
+                "Force_Staff",
+                "Dragon_Lance",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Manta_Style",
+            "cost": 4700,
+            "recipe": [
+                "Yasha",
+                "Ultimate_Orb",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Shiva's_Guard",
+            "cost": 4750,
+            "recipe": [
+                "Platemail",
+                "Mystic_Staff",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Bloodstone",
+            "cost": 4900,
+            "recipe": [
+                "Perseverance",
+                "Soul_Booster"
+            ]
+        },
+        {
+            "id": "Linken's_Sphere",
+            "cost": 5050,
+            "recipe": [
+                "Ultimate_Orb",
+                "Perseverance",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Heart_of_Tarrasque",
+            "cost": 5200,
+            "recipe": [
+                "Ring_of_Tarrasque",
+                "Vitality_Booster",
+                "Reaver",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Assault_Cuirass",
+            "cost": 5250,
+            "recipe": [
+                "Platemail",
+                "Hyperstone",
+                "Chainmail",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Crystalys",
+            "cost": 2130,
+            "recipe": [
+                "Broadsword",
+                "Blades_of_Attack",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Armlet_of_Mordiggian",
+            "cost": 2380,
+            "recipe": [
+                "Helm_of_Iron_Will",
+                "Gloves_of_Haste",
+                "Blades_of_Attack",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Meteor_Hammer",
+            "cost": 2625,
+            "recipe": [
+                "Ogre_Axe",
+                "Staff_of_Wizardry",
+                "Ring_of_Regen",
+                "Sage's_Mask"
+            ]
+        },
+        {
+            "id": "Shadow_Blade",
+            "cost": 2800,
+            "recipe": [
+                "Shadow_Amulet",
+                "Claymore"
+            ]
+        },
+        {
+            "id": "Skull_Basher",
+            "cost": 2950,
+            "recipe": [
+                "Mithril_Hammer",
+                "Belt_of_Strength",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Monkey_King_Bar",
+            "cost": 4175,
+            "recipe": [
+                "Demon_Edge",
+                "Javelin",
+                "Quarterstaff"
+            ]
+        },
+        {
+            "id": "Battle_Fury",
+            "cost": 4400,
+            "recipe": [
+                "Demon_Edge",
+                "Perseverance",
+                "Quelling_Blade",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Ethereal_Blade",
+            "cost": 4700,
+            "recipe": [
+                "Eaglesong",
+                "Ghost_Scepter"
+            ]
+        },
+        {
+            "id": "Radiance",
+            "cost": 5150,
+            "recipe": [
+                "Sacred_Relic",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Daedalus",
+            "cost": 5330,
+            "recipe": [
+                "Crystalys",
+                "Demon_Edge",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Butterfly",
+            "cost": 5475,
+            "recipe": [
+                "Eaglesong",
+                "Talisman_of_Evasion",
+                "Quarterstaff"
+            ]
+        },
+        {
+            "id": "Silver_Edge",
+            "cost": 5550,
+            "recipe": [
+                "Shadow_Blade",
+                "Ultimate_Orb",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Divine_Rapier",
+            "cost": 6000,
+            "recipe": [
+                "Sacred_Relic",
+                "Demon_Edge"
+            ]
+        },
+        {
+            "id": "Abyssal_Blade",
+            "cost": 6650,
+            "recipe": [
+                "Skull_Basher",
+                "Vanguard",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Bloodthorn",
+            "cost": 7205,
+            "recipe": [
+                "Orchid_Malevolence",
+                "Crystalys",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Mask_of_Madness",
+            "cost": 1775,
+            "recipe": [
+                "Morbid_Mask",
+                "Quarterstaff"
+            ]
+        },
+        {
+            "id": "Dragon_Lance",
+            "cost": 1900,
+            "recipe": [
+                "Ogre_Axe",
+                "Band_of_Elvenskin",
+                "Band_of_Elvenskin"
+            ]
+        },
+        {
+            "id": "Kaya",
+            "cost": 2050,
+            "recipe": [
+                "Staff_of_Wizardry",
+                "Robe_of_the_Magi",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Sange",
+            "cost": 2050,
+            "recipe": [
+                "Ogre_Axe",
+                "Belt_of_Strength",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Yasha",
+            "cost": 2050,
+            "recipe": [
+                "Blade_of_Alacrity",
+                "Band_of_Elvenskin",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Helm_of_the_Dominator",
+            "cost": 2175,
+            "recipe": [
+                "Gloves_of_Haste",
+                "Headdress",
+                "Ring_of_Health",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Echo_Sabre",
+            "cost": 2650,
+            "recipe": [
+                "Ogre_Axe",
+                "Oblivion_Staff"
+            ]
+        },
+        {
+            "id": "Maelstrom",
+            "cost": 2700,
+            "recipe": [
+                "Mithril_Hammer",
+                "Javelin"
+            ]
+        },
+        {
+            "id": "Diffusal_Blade",
+            "cost": 3150,
+            "recipe": [
+                "Blade_of_Alacrity",
+                "Blade_of_Alacrity",
+                "Robe_of_the_Magi",
+                "Default_recipe"
+            ]
+        },
+        {
+            "id": "Heaven's_Halberd",
+            "cost": 3450,
+            "recipe": [
+                "Sange",
+                "Talisman_of_Evasion"
+            ]
+        },
+        {
+            "id": "Desolator",
+            "cost": 3500,
+            "recipe": [
+                "Mithril_Hammer",
+                "Mithril_Hammer",
+                "Blight_Stone"
+            ]
+        },
+        {
+            "id": "Kaya_and_Sange",
+            "cost": 4100,
+            "recipe": [
+                "Sange",
+                "Kaya"
+            ]
+        },
+        {
+            "id": "Sange_and_Yasha",
+            "cost": 4100,
+            "recipe": [
+                "Yasha",
+                "Sange"
+            ]
+        },
+        {
+            "id": "Yasha_and_Kaya",
+            "cost": 4100,
+            "recipe": [
+                "Kaya",
+                "Yasha"
+            ]
+        },
+        {
+            "id": "Satanic",
+            "cost": 5300,
+            "recipe": [
+                "Morbid_Mask",
+                "Claymore",
+                "Reaver"
+            ]
+        },
+        {
+            "id": "Eye_of_Skadi",
+            "cost": 5500,
+            "recipe": [
+                "Ultimate_Orb",
+                "Ultimate_Orb",
+                "Point_Booster"
+            ]
+        },
+        {
+            "id": "Mjollnir",
+            "cost": 5600,
+            "recipe": [
+                "Maelstrom",
+                "Hyperstone",
+                "Default_recipe"
+            ]
+        }
+    ]
+}
