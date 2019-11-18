@@ -4,6 +4,10 @@ function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
 
+export function getItem(id) {
+  return items.items.find(item => item.id === id);
+}
+
 export function getItems(ids = []) {
   return ids.map(id => items.items.find(item => item.id === id));
 }
@@ -14,6 +18,17 @@ export function getRandomRecipeItem() {
   return recipeItems[randomIndex];
 }
 
+export function getRandomBaseItem() {
+  let baseItems = items.items.filter(item => !item.recipe);
+  let randomIndex = getRandomInt(baseItems.length);
+  return baseItems[randomIndex];
+}
+
+export function getRandomItem() {
+  let randomIndex = getRandomInt(items.items.length);
+  return items.items[randomIndex];
+}
+
 export function getUniqueRecipeItem(blacklist = []) {
   let item = getRandomRecipeItem();
 
@@ -21,6 +36,19 @@ export function getUniqueRecipeItem(blacklist = []) {
     let duplicate = duplicates(blacklist, item);
     while (duplicate.length > 0) {
       item = getRandomRecipeItem();
+      duplicate = duplicates(blacklist, item);
+    }
+  }
+  return item;
+}
+
+export function getUniqueItem(blacklist = [], onlyBasicItems = true) {
+  let item = onlyBasicItems ? getRandomBaseItem() : getRandomItem();
+
+  let duplicate = duplicates(blacklist, item);
+  if (blacklist.length > 0) {
+    while (duplicate.length > 0) {
+      item = onlyBasicItems ? getRandomBaseItem() : getRandomItem();
       duplicate = duplicates(blacklist, item);
     }
   }

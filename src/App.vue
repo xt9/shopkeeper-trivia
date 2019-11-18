@@ -23,6 +23,8 @@ export default {
 }
 body {
   background: #222;
+  margin: 0;
+  padding: 0;
   color: #ededed;
 }
 </style>

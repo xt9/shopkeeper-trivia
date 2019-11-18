@@ -3,6 +3,7 @@
     <h3>What Item does the following components produce?</h3>
 
     <img
+      class="component"
       v-for="(componentItem, i) in question.components"
       :src="getIconPath(componentItem.id)"
       :key="'componentitem' + i"
@@ -17,21 +18,21 @@
         :src="getIconPath(choiceItem.id)"
         :key="'choiceitem' + i"
         :alt="getItemName(choiceItem.id)"
-        v-on:click="answer(choiceItem.id)"
+        @click="answer(choiceItem.id)"
       />
     </div>
 
     <div v-if="feedback">
-      <h1 v-bind:class="{ correct: wasCorrect, incorrect: !wasCorrect }">{{ feedback.msg }}</h1>
+      <h1 :class="{ correct: wasCorrect, incorrect: !wasCorrect }">{{ feedback.msg }}</h1>
     </div>
   </div>
 </template>
 
 <script>
-import { getItemName } from "../util/question";
 import {
   getRandomRecipeItem,
   getUniqueRecipeItem,
+  getItemName,
   getItems,
   shuffle
 } from "../util/question";
@@ -52,7 +53,6 @@ export default {
     },
     answer(id) {
       if (this.wasCorrect === null) {
-        this.answered = true;
         this.wasCorrect = id === this.question.answer.id;
         this.feedback = this.wasCorrect
           ? { msg: "Good job!" }
@@ -97,7 +97,9 @@ export default {
 .incorrect {
   color: red;
 }
-img.choice {
+
+img.choice,
+img.component {
   border: 4px solid #424242;
   margin-right: 12px;
   margin-top: 12px;
